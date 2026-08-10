@@ -6,3 +6,10 @@
 npx create-next-app@latest nextjs-project-dockerize
 ```
 ---
+
+#### project root e dockerfile create koro
+> dockerfile
+```bash
+
+```
+---
